@@ -1,0 +1,25 @@
+{
+  "name": "reved",
+  "description": "utilities for creating and maniupatling reviewers editions",
+  "version": "0.0.0",
+  "author": "kyle@kemitchell.com <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "dependencies": {
+    "reviewers-edition-compare": "^1.0.2",
+    "reviewers-edition-parse": "^2.0.2",
+    "reviewers-edition-stringify": "^1.0.0",
+    "reviewers-edition-upgrade": "^1.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "keywords": [
+    "prose",
+    "sorting",
+    "version",
+    "versioning"
+  ],
+  "license": "MIT",
+  "repository": "kemitchell/reved.js"
+}

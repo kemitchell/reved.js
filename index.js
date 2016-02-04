@@ -1,0 +1,6 @@
+exports.compare = require('reviewers-edition-compare')
+exports.parse = require('reviewers-edition-parse')
+exports.numbers = require('reviewers-edition-parse/numbers')
+exports.regularExpression = require('reviewers-edition-parse/regular-expression')
+exports.stringify = require('reviewers-edition-stringify')
+exports.upgrade = require('reviewers-edition-upgrade')
