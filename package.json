@@ -1,7 +1,7 @@
 {
   "name": "reved",
   "description": "utilities for creating and maniupatling reviewers editions",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "kyle@kemitchell.com <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
     "reviewers-edition-compare": "^1.0.2",
