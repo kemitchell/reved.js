@@ -1,5 +1,5 @@
 This npm package bundles a number of packages for creating and
-manipulating [reviewers editions][parse].
+manipulating [Reviewers Editions][parse].
 
 [reved]: https://npmjs.com/packages/reviewers-edition-parse
 
