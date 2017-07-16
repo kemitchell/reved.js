@@ -11,6 +11,8 @@ manipulating [Reviewers Editions][parse].
 
 4. [`.upgrade`](https://www.npmjs.com/packages/reviewers-edition-upgrade)
 
+4. [`.spell`](https://www.npmjs.com/packages/reviewers-edition-spell)
+
 This package also exports the list of number names and parsing regular
 expression from [reviewers-edition-parse][parse] as `.numbers` and
 `.regularExpression`.
